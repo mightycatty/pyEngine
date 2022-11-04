@@ -42,7 +42,7 @@ class IE:
             logger.error('package for {} not installed!'.format(model_format))
             exit(0)
         else:
-            self.ie = VALID_IE_DICT[model_format](model_format, *args, **kwargs)
+            self.ie = VALID_IE_DICT[model_format](model_dir, *args, **kwargs)
 
     def predict(self, input_data,
                 *args, **kwargs):
