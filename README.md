@@ -1,6 +1,6 @@
 # pyEngine
 
-Wrapped python inference engine for fast model inference.
+Wrapup engine for easy different model inference engines tryout.
 
 ## Supported inference engines/frameworks:
 
