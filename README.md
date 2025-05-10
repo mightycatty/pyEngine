@@ -1,6 +1,6 @@
 # pyEngine
 
-A wrapper engine for easily experimenting with different model inference engines.
+An engines wrapper for easily experimenting with different model inference engines.
 
 ## Supported Inference Engines/Frameworks
 
